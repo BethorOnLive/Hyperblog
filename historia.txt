@@ -2,4 +2,4 @@ Hola mi nombre es Jesus Alberto
 
 Estoy aprendiendo git en platzi con Fredy
 
-Quiero potenciar mi cv
+En realidad el motivo solo es aprender
