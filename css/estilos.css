@@ -36,7 +36,11 @@ body
 {
     font-size: 20px;
 }
-#post{
+
+#post
+{
+    background-color: bisque;
     font-family: 'Crimson Text', serif;
     font-size: 26px;
+
 }
