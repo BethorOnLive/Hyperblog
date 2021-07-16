@@ -42,5 +42,6 @@ body
 	background-color: #777;
 	color: white;
 	text-align: center;
-	padding: 0.5 em;	
+	padding: 0.5 em;
+    line-height: 50px;	
 }
