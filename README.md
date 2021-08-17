@@ -10,3 +10,4 @@ En este proyecto apliqué todos los conocimientos adquiridos en el curso:
 - El flujo de trabajo en Github
 - El verdadero amor por las buenas prácticas
 - Hecho por Jesús Alberto
+- Con ejemplos en windows, linux y mac
